@@ -1,0 +1,54 @@
+[
+  {
+    "nameBot": "XP Assessor",
+    "environment": "Homologacao",
+    "table": "advisorChatbot",
+    "serverID": "123",
+    "transbordo": {
+      "organizationId": "00D550000000kzF",
+      "deploymentId": "572370000008S9X",
+      "RendaVariavel": "5731G0000004GGH",
+      "Onboarding": "5732F000000Cb16",
+      "Prime": "5732F000000Cb17",
+      "Desenvolvimento": "5732F000000Cb15",
+      "URL":"d.la1-c2cs-ia2.salesforceliveagent.com"
+    },
+    "channel": {
+      "selectedChannel": "WHATSAPP",
+      "client": "XP Assessor",
+      "URL": "RDS-WhatsApp-LB-130189394.us-east-1.elb.amazonaws.com",
+      "Authorization": "YWRtaW46RWZdZ0RhNTdoZFU1NzQz",
+      "namespace": "33410fac_80c4_4a98_8beb_200e5b886f0c"
+    },
+    "nlp": {
+      "workspace": "ab817e62-7df7-4a3f-967d-5dd84003a3e6",
+      "apikey": "YnD7ZLe86d7IGhJeSv59fAGWMQn_7HEh4zhjf2P8Np2k"
+    }
+  },
+  {
+    "nameBot": "XP Assessor",
+    "environment": "Homologacao",
+    "table": "advisorChatbot",
+    "serverID": "5511949249382",
+    "transbordo": {
+      "organizationId": "00D550000000kzF",
+      "deploymentId": "572370000008S9X",
+      "URL":"d.la1-c2cs-ia2.salesforceliveagent.com",
+      "RendaVariavel": "5731G0000004GGH",
+      "OnBoarding": "5731G0000004GGg",
+      "Prime": "5731G0000004GGh",
+      "Desenvolvimento": "5731G0000004GGf"     
+    },
+    "channel": {
+      "selectedChannel": "WHATSAPP",
+      "client": "XP Assessor",
+      "URL": "RDS-WhatsApp-LB-130189394.us-east-1.elb.amazonaws.com",
+      "Authorization": "YWRtaW46RWZdZ0RhNTdoZFU1NzQz",
+      "namespace": "33410fac_80c4_4a98_8beb_200e5b886f0c"
+    },
+    "nlp": {
+      "workspace": "a4d871f1-3bee-481e-bdbf-316fc029c1c9",
+      "apikey": "yK7kiwbXDUl_sD4Q5gtlMOFUQOqKBSstA6HNNzKHIbzG"
+    }
+  }
+]
