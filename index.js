@@ -1,6 +1,9 @@
 global.aws = require('aws-sdk')
 global.aws.config.region = 'us-east-1';
 
+
+sdfsdf = 010
+
 let lambda = new global.aws.Lambda();
 
 const config = require("./services/config");
